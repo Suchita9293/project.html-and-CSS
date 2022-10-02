@@ -1,0 +1,96 @@
+<html>
+<head>
+<title>RESUME</title>
+</head>
+<body background="image.jpg">
+<h1><Font face="Arial Black">RESUME</font></h1>
+<h2><Font face="Algerian">PERSONAL DETAILS: </font></h2><img src="Name Image.jpg" alt="image not found" width="90" height="110" align="right" border=5 >
+<h4><Font face="Comic Sans MS">Name : A B C</font></h4>
+<h4><font face="Comic Sans MS">Date of Birth : day month year</font></h4>
+<h4><font face="Comic Sans MS">Gender : ABC</font></h4>
+<h4><font face="Comic Sans MS">Nationality : ABC</font></h4>
+<h4><font face="Comic Sans MS">Language Known : ABC</font></h4>
+<hr>
+<h2><Font face="Algerian">EDUCATION DETAILS :</font></h2>
+<style>
+td{
+padding:15px;
+}
+table tr,th,td
+{
+border:2px solid red;
+border-collapse:collapse;
+}
+h2{
+background-color:lightblue;
+}
+</style>
+<table style="width:100%">
+<table border="3">
+<tr>
+<th><Font face="Comic Sans MS">Sr.no</font></th>
+<th><Font face="Comic Sans MS">Course</font></th>
+<th><Font face="Comic Sans MS">School/College</font></th>
+<th><Font face="Comic Sans MS">Year of Passing</font></th>
+<th><Font face="Comic Sans MS">Percentage</font></th>
+</tr>
+<tr>
+<td><Font face="Comic Sans MS">1</font></td>
+<td><Font face="Comic Sans MS">10th</font></td>
+<td><Font face="Comic Sans MS">School name</font></td>
+<td><Font face="Comic Sans MS">completion year</font></td>
+<td><Font face="Comic Sans MS">marks</font></td>
+</tr>
+<tr>
+<td><Font face="Comic Sans MS">2</font></td>
+<td><Font face="Comic Sans MS">12th</font></td>
+<td><Font face="Comic Sans MS">College Name</font></td>
+<td><Font face="Comic Sans MS">completion year</font></td>
+<td><Font face="Comic Sans MS">marks</font></td>
+</tr>
+<tr>
+<td><Font face="Comic Sans MS">3</font></td>
+<td><Font face="Comic Sans MS">B.tech</font></td>
+<td><Font face="Comic Sans MS">College Name</font></td>
+<td><Font face="Comic Sans MS">completion year</font></td>
+<td><Font face="Comic Sans MS">marks</font></td>
+</tr>
+</table>
+<hr>
+<h2><Font face="Algerian">HOBBIES :</font></h2>
+<ul>
+<li style="list-style-type:circle;"><Font face="Comic Sans MS">ABC</font></li>
+<li style="list-style-type:circle;"><Font face="Comic Sans MS">ABC</font></li>
+<li style="list-style-type:circle;"><Font face="Comic Sans MS">ABC</font></li>
+</ul>
+<h2><Font face="Algerian">TECHNICAL SKILLS :</font></h2>
+<ul>
+<li style="list-style-type:circle;"><Font face="Comic Sans MS">MS-Office,MS-CIT,C,Python,Html</font></li>
+</ul>
+<h2><Font face="Algerian">KEY STRENGTH :</font></h2>
+<ul>
+<li style="list-style-type:circle;"><Font face="Comic Sans MS">ABC</font></li>
+<li style="list-style-type:circle;"><Font face="Comic Sans MS">ABC</font></li>
+<li style="list-style-type:circle;"><Font face="Comic Sans MS">ABC</font></li>
+</ul>
+<h2><Font face="Algerian">CERTIFICATIONS & ACHIEVEMENTS :</font></h2>
+<ul>
+<li style="list-style-type:circle;"><Font face="Comic Sans MS"></font>ABC</li>
+<li style="list-style-type:circle;"><Font face="Comic Sans MS">ABC</font></li>
+<li style="list-style-type:circle;"><Font face="Comic Sans MS">ABC</font></li>
+<li style="list-style-type:circle;"><Font face="Comic Sans MS">ABC</font></li>
+</ul>
+<h2><Font face="Algerian">INTERNSHIP :</font></h2>
+<ul>
+<li style="list-style-type:circle;"><Font face="Comic Sans MS">Name of company</font></li>
+</ul>
+<h2><Font face="Algerian">CONTACT :</font></h2>
+<ul>
+<li style="list-style-type:circle;"><Font face="Comic Sans MS">ABC@gmail.com</font></li>
+<li style="list-style-type:circle;"><Font face="Comic Sans MS">1234567890</font></li>
+<li style="list-style-type:circle;"><Font face="Comic Sans MS">ABC</font></li>
+</ul>
+<h2><Font face="Algerian">DECLARATION :</font></h2>
+<h4><Font face="Comic Sans MS">I hereby declare that the information furnished above is true to best of my knowledge.</font></4>
+</body>
+</html>
